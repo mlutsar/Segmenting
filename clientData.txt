@@ -1,0 +1,9 @@
+Adjust the new client's data as needed. Please do not remove colons or rearrange rows, the program will get confused.
+Name: new client
+Avg Revenues (dollars): 400
+Risk score: 530 
+Age (years): 30
+Length of Residence (months): 12
+Number of Children: 4
+Income (thousands of dollars): 62
+Gender (male = 100, female = 0): 0
